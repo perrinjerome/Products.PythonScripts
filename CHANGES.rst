@@ -6,6 +6,8 @@ Changelog
 
 - Fix behavior when uploading no file in ``Zope >= 5.8.1``.
 
+- Show Python Scripts source code in tracebacks.
+
 
 5.0 (2023-02-01)
 ----------------
